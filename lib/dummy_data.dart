@@ -67,7 +67,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+        'https://cdn.pixabay.com/photo/2016/06/17/19/11/pasta-1463934_960_720.jpg',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
@@ -100,7 +100,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg',
+        'https://cdn.pixabay.com/photo/2016/04/30/16/32/toast-1363232_960_720.jpg',
     duration: 10,
     ingredients: [
       '1 Slice White Bread',
