@@ -129,7 +129,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Pricey,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg',
+        'https://cdn.pixabay.com/photo/2016/08/31/21/47/burger-1634705_960_720.jpg',
     duration: 45,
     ingredients: [
       '300g Cattle Hack',
@@ -160,7 +160,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Luxurious,
     complexity: Complexity.Challenging,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/03/31/19/29/schnitzel-3279045_1280.jpg',
+        'https://cdn.pixabay.com/photo/2019/03/25/20/20/schnitzel-4081269_960_720.jpg',
     duration: 60,
     ingredients: [
       '8 Veal Cutlets',
@@ -230,7 +230,7 @@ const DUMMY_MEALS = const [
     ],
     title: 'Delicious Orange Mousse',
     affordability: Affordability.Affordable,
-    complexity: Complexity.Hard,
+    complexity: Complexity.Master,
     imageUrl:
         'https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg',
     duration: 240,
@@ -267,7 +267,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/07/10/21/23/pancake-3529653_1280.jpg',
+        'https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908_960_720.jpg',
     duration: 20,
     ingredients: [
       '1 1/2 Cups all-purpose Flour',
@@ -298,7 +298,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Pricey,
     complexity: Complexity.Challenging,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg',
+        'https://cdn.pixabay.com/photo/2019/03/22/18/25/food-4073884_960_720.jpg',
     duration: 35,
     ingredients: [
       '4 Chicken Breasts',
@@ -329,9 +329,9 @@ const DUMMY_MEALS = const [
     ],
     title: 'Chocolate Souffle',
     affordability: Affordability.Affordable,
-    complexity: Complexity.Hard,
+    complexity: Complexity.Master,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg',
+        'https://prods3.imgix.net/images/articles/2016_06/Feature-souffle-Fathers-day-recipes-rump-steak-souffle-pasta-spaghetti-chef-dads.jpg?auto=format%2Ccompress&dpr=2.63&ixjsv=2.2.3&q=38&w=370',
     duration: 45,
     ingredients: [
       '1 Teaspoon melted Butter',
